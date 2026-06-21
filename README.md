@@ -1,6 +1,6 @@
 # Guess The Number Game
 
-This is my first Python project
+This is a beginner-friendly Python project 
 
 ## Features
 -- Random Number generation 
